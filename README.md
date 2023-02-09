@@ -11,7 +11,7 @@ This app is by no means perfected and not meant to operate on its own. I used it
 There are a lot of improvements that could be made on this application if anyone wants to take it and run with it for automation purposes. I used this more as a proof of concept.
 
 - [ ] Currently only working for 1 scenario: Hades offer > ME floor. Append to support for when ME Offer > Hades Floor
-- [ ] Clean the return format so it gives more information. Currently just writes collection name to arb.json
+- [ ] Clean the return format so it gives more information. Currently just writes collection name to `arb.json`
 - [ ] Add in buffer %s so you know exactly which collections are still worth trading even after fees
 - [ ] Automate :). Give a wallet some funds and see if it can successfully trade on its own
 
